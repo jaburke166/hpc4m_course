@@ -1,2 +1,3 @@
-# hpc4m_course
-FORTRAN code for high performance computing for mathematics course completed in early 2021.
+# High performance computing for mathematics postgraduate course
+
+This course provided an overview into methods to parallelise highly, computationally complex coding problems through use of the supercomputer Cirrus, run by the EPCC (Edinburgh Parallel Computing Centre). I was expected to get to grips with a compiler language of my choice – of which I chose FORTRAN – and through lectures on different parallelisation techniques, we would work through a series of mathematical problem which we needed to parallelise, which progressively increased in difficulty. This course greatly improved my practical coding skills from writing compiler and terminal code as we were required to write code on text editors directly from the command terminal and submit them to the supercomputer to be executed.

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+## Load the required modules
+module load mpt
+module load intel-compilers-19
+
+## compiler with MPI:
+mpif90 mat_mul_ext.f90 -o mat_mul_ext.exe
